@@ -1,2 +1,2 @@
 # Chess-Game
-Chess game developed in C++
+Chess game developed in C++ (still in progress)
